@@ -20,3 +20,4 @@ INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(5, '
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(6, 'Tornado', 'Roe', 'tornado.roe@gmail.com', '2018-03-05');
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(7, 'Jade', 'Doe', 'jane.doe@gmail.com', '2018-03-06');
 INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(1, 'Ariel', 'Castan', 'ariel.castan@gmail.com', '1998-05-05');
+INSERT INTO clientes (region_id, nombre, apellido, email, create_at) VALUES(1, 'Anais', 'Farias', 'anais.farias@gmail.com', '1998-10-17');
